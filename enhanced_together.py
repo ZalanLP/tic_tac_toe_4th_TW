@@ -23,7 +23,7 @@ def display_menu():
         print_slow(fore.DEEP_PINK_1B + main_screen + style.RESET, 0.001)
     main_menu_line1 = fore.GOLD_1 + "Main menu:".center(170)
     main_menu_line2 = "1 - Player vs. player".center(170)
-    main_menu_line3 = "2 - Player vs. computer".center(228)
+    main_menu_line3 = "2 - Player vs. computer".center(269)
     print("\n")
     print_slow(main_menu_line1, 0.01)
     print("\n")
